@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore;
+﻿// Bienvendos al sistema SpaceGame
+// Creado por DLR
+using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 
 namespace TailSpin.SpaceGame.Web
